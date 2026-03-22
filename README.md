@@ -120,12 +120,5 @@ AUC of 0.51 confirms that in-product usage data alone is a weak predictor of con
 
 ---
 
-## How to Run
-
-1. Place `DAtask.csv` in the same directory as the notebook
-2. `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
-
-
----
 
 
