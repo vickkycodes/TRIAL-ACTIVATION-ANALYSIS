@@ -113,8 +113,8 @@ AUC of 0.51 confirms that in-product usage data alone is a weak predictor of con
 
 | File | Description |
 |---|---|
-| `RETRIAL_SPLENDOR_CHALLENGE_ENHANCED.ipynb` | Full enhanced analysis notebook |
-| `splendor_trial_activation.sql` | All four SQL activation queries with inline comments |
+| `TRIAL_ACTIVATION_ANALYSIS.ipynb` | Full enhanced analysis notebook |
+| `TRIAL_ACTIVATION.sql` | All four SQL activation queries with inline comments |
 | `README.md` | This file |
 | `DAtask.csv` | Source event data |
 
